@@ -7,15 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  {
-  "name": "express-api-application",
-  "version": "1.0.0",
-  "scripts": {
-    "test": "jest"
-  },
-  "devDependencies": {
-    "jest": "^27.0.0"
-  }
 }
   "author": "Emmanuel ekem",
   "license": "ISC",
